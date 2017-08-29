@@ -25,6 +25,5 @@
     "psr-4": {
       "Alw\\Custom\\": ""
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
